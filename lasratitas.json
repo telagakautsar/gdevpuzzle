@@ -4,9 +4,9 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
+      "admob_inter":"ca-app-pub-7251705005287196/5638807746",
+      "admob_banner":"ca-app-pub-7251705005287196/9652390164",
+      "admob_open_ads":"ca-app-pub-7251705005287196/9386481062",
       "select_ads":"ADMOB",
       "interval":"7",
       "unityID":"",
@@ -54,19 +54,19 @@
       "image":"https://cldup.com/p1Pw_aylqZ.jpg"
     },
 	{
-      "title":"Puzzle 8",
+      "title":"Puzzle 9",
       "image":"https://cldup.com/eMLkK-qWXq.jpg"
     },
 	{
-      "title":"Puzzle 8",
+      "title":"Puzzle 10",
       "image":"https://cldup.com/mGg8LCG9Tq.jpg"
     },
 	{
-      "title":"Puzzle 8",
+      "title":"Puzzle 11",
       "image":"https://cldup.com/BKgSaEcsWE.jpg"
     },
 	{
-      "title":"Puzzle 8",
+      "title":"Puzzle 12",
       "image":"https://cldup.com/Pokc1EA6YT.jpg"
     }
 	
