@@ -4,9 +4,9 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
+      "admob_inter":"ca-app-pub-7251705005287196/2301417719",
+      "admob_banner":"ca-app-pub-7251705005287196/3482653352",
+      "admob_open_ads":"ca-app-pub-7251705005287196/5741985186",
       "select_ads":"ADMOB",
       "interval":"7",
       "unityID":"",
@@ -21,37 +21,125 @@
   "Data":
   [
     
-    {
-      "title":"Puzzle 1",
-       "image":"https://cldup.com/-fVIQU4MWg.jpg"
+        {
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/-fVIQU4MWg.jpg"
     },
 	{
-      "title":"Puzzle 2",
+      "title":"Pacific Rim",
         "image":"https://cldup.com/Rk1r_xZzNh.jpg"
     },
 	{
-      "title": "Puzzle 3",
-       "image":"https://cldup.com/-R8IGRNPiU.jpg"
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/-R8IGRNPiU.jpg"
     },
-    {
-      "title":"Puzzle 4",
+	{
+      "title":"Pacific Rim",
         "image":"https://cldup.com/_fL1koZg6j.jpg"
     },
 	{
-      "title":"Puzzle 5",
+      "title":"Pacific Rim",
         "image":"https://cldup.com/tQ1AHls8z1.jpg"
     },
 	{
-      "title":"Puzzle 6",
+      "title":"Pacific Rim",
         "image":"https://cldup.com/Wv4XbWfYLi.jpg"
     },
 	{
-      "title":"Puzzle 7",
+      "title":"Pacific Rim",
         "image":"https://cldup.com/DKtk22ToQC.jpg"
     },
 	{
-      "title":"Puzzle 8",
+      "title":"Pacific Rim",
         "image":"https://cldup.com/QrH5vWf9zs.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/CqQqXd0bzz.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/BZtIxwogqJ.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/7YelldTDCH.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/qEk9rFC2Q0.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/yZxJbiTmkS.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/A4xfZXl31D.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/r1xcOojJTZ.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/CLchQO43X3.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/C2Tjn2-Gfl.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/5lA4jiZqvv.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/mZDHmo5oEU.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/hllE4uUFlm.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/roAOpq8yqW.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/JzZH29Gmj5.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/Ilxsru8cLY.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/fvF39ltIko.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/0YVT8aWKiz.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/JwFnkdOmxo.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/k4KSE4v4Vp.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/rnJejY0oL9.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/Kn3NEm6Dc0.jpg"
+    },
+	{
+      "title":"Pacific Rim",
+        "image":"https://cldup.com/Ilsgkc1NjB.jpg"
     }
 	
 	
