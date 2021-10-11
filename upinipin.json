@@ -1,0 +1,229 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"7",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    
+
+    {
+      "title":"Upin Ipin 1",
+      "image":"https://cldup.com/-dTcTF_cGX.jpg"
+    },
+	{
+      "title":"Upin Ipin 2",
+      "image":"https://cldup.com/74-fWuAdy4.jpg"
+    },
+	{
+      "title":"Upin Ipin 3",
+      "image":"https://cldup.com/MN5z-bD-2a.jpg"
+    },
+	{
+      "title":"Upin Ipin 4",
+      "image":"https://cldup.com/5CU5IHPX2P.jpg"
+    },
+	{
+      "title":"Upin Ipin 5",
+      "image":"https://cldup.com/VMSyL_CrdG.jpg"
+    },
+	{
+      "title":"Upin Ipin 6",
+      "image":"https://cldup.com/yohh1EemjN.jpg"
+    },
+	{
+      "title":"Upin Ipin 7",
+      "image":"https://cldup.com/6k8jTqmd_c.jpg"
+    },
+	{
+      "title":"Upin Ipin 8",
+      "image":"https://cldup.com/dvuIoLsd6u.jpg"
+    },
+	{
+      "title":"Upin Ipin 9",
+      "image":"https://cldup.com/55BrCKGP1G.jpg"
+    },
+	{
+      "title":"Upin Ipin 10",
+      "image":"https://cldup.com/mf4CA4X-Er.jpg"
+    },
+	{
+      "title":"Upin Ipin 11",
+      "image":"https://cldup.com/DcNbR6yFrL.jpg"
+    },
+	{
+      "title":"Upin Ipin 12",
+      "image":"https://cldup.com/K8IXMisSnJ.jpg"
+    },
+	{
+      "title":"Upin Ipin 13",
+      "image":"https://cldup.com/EF1iS4Nrfb.jpg"
+    },
+	{
+      "title":"Upin Ipin 14",
+      "image":"https://cldup.com/IxJ4LASD2y.jpg"
+    },
+	{
+      "title":"Upin Ipin 15",
+      "image":"https://cldup.com/EM2fT9UFC6.jpg"
+    },
+	{
+      "title":"Upin Ipin 16",
+      "image":"https://cldup.com/yTA3wC1hNh.jpg"
+    },
+	{
+      "title":"Upin Ipin 17",
+      "image":"https://cldup.com/6rOkm7-_IJ.jpg"
+    },
+	{
+      "title":"Upin Ipin 18",
+      "image":"https://cldup.com/ylpNnf8qEU.jpg"
+    },
+	{
+      "title":"Upin Ipin 19",
+      "image":"https://cldup.com/Nc2zG6nC1k.jpg"
+    },
+	{
+      "title":"Upin Ipin 20",
+      "image":"https://cldup.com/6bZGAjMYAt.jpg"
+    },
+	{
+      "title":"Upin Ipin 21",
+      "image":"https://cldup.com/qAbnFegnb0.jpg"
+    },
+	{
+      "title":"Upin Ipin 22",
+      "image":"https://cldup.com/rphoFfX0x5.jpg"
+    },
+	{
+      "title":"Upin Ipin 23",
+      "image":"https://cldup.com/xrCydam8Vf.jpg"
+    },
+	{
+      "title":"Upin Ipin 24",
+      "image":"https://cldup.com/Swcz7s3eyA.jpg"
+    },
+	{
+      "title":"Upin Ipin 25",
+      "image":"https://cldup.com/BrmAafHeQn.jpg"
+    },
+	{
+      "title":"Upin Ipin 26",
+      "image":"https://cldup.com/o3Mt5PPFaL.jpg"
+    },
+	{
+      "title":"Upin Ipin 27",
+      "image":"https://cldup.com/VgOvdgqVPP.jpg"
+    },
+	{
+      "title":"Upin Ipin 28",
+      "image":"https://cldup.com/vpJHUWtROq.jpg"
+    },
+	{
+      "title":"Upin Ipin 29",
+      "image":"https://cldup.com/WchuqGeGwh.jpg"
+    },
+	{
+      "title":"Upin Ipin 30",
+      "image":"https://cldup.com/nVL_zUi6ls.jpg"
+    },
+	  {
+      "title":"Upin Ipin 31",
+      "image":"https://cldup.com/FSBOgxUmHF.jpg"
+    },
+	{
+      "title":"Upin Ipin 32",
+      "image":"https://cldup.com/Z-yM1QS5gw.jpg"
+    },
+	{
+      "title":"Upin Ipin 33",
+      "image":"https://cldup.com/dzZBvsA159.jpg"
+    },
+	{
+      "title":"Upin Ipin 34",
+      "image":"https://cldup.com/2CBpdZZgdY.jpg"
+    },
+	{
+      "title":"Upin Ipin 35",
+      "image":"https://cldup.com/O9bjKC2Tx8.jpg"
+    },
+	{
+      "title":"Upin Ipin 36",
+      "image":"https://cldup.com/jQQr6JBPvl.jpg"
+    },
+	{
+      "title":"Upin Ipin 37",
+      "image":"https://cldup.com/DOX9tFlTaX.jpg"
+    },
+	{
+      "title":"Upin Ipin 38",
+      "image":"https://cldup.com/XYnu3ZCNXb.jpg"
+    },
+	{
+      "title":"Upin Ipin 39",
+      "image":"https://cldup.com/wa90E_nKk1.jpg"
+    },
+	{
+      "title":"Upin Ipin 40",
+      "image":"https://cldup.com/dmOg7YtfFQ.jpg"
+    },
+	{
+      "title":"Upin Ipin 41",
+      "image":"https://cldup.com/tAyJReyH60.jpg"
+    },
+	{
+      "title":"Upin Ipin 42",
+      "image":"https://cldup.com/WG97ixNg1a.jpg"
+    },
+	{
+      "title":"Upin Ipin 43",
+      "image":"https://cldup.com/HaA3Rc5fY5.jpg"
+    },
+	{
+      "title":"Upin Ipin 44",
+      "image":"https://cldup.com/t_RyaoacqE.jpg"
+    },
+	{
+      "title":"Upin Ipin 45",
+      "image":"https://cldup.com/zhwdwYnw4x.jpg"
+    },
+	{
+      "title":"Upin Ipin 46",
+      "image":"https://cldup.com/cWHV10j43C.jpg"
+    },
+	{
+      "title":"Upin Ipin 47",
+      "image":"https://cldup.com/zXpDAAsWdV.jpg"
+    },
+	{
+      "title":"Upin Ipin 48",
+      "image":"https://cldup.com/LxOiHhHyFs.jpg"
+    },
+	{
+      "title":"Upin Ipin 49",
+      "image":"https://cldup.com/7FRSclZMT0.jpg"
+    },
+	{
+      "title":"Upin Ipin 50",
+      "image":"https://cldup.com/amx3y0zZqD.jpg"
+    }
+	
+	
+  ]
+
+}
