@@ -1,0 +1,51 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"7",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Princess 1",
+      "image":"https://cldup.com/3g5550fmQa.jpg"
+    },
+    {
+      "title": "Princess 2",
+        "image":"https://cldup.com/Hqc5KHsgP4.jpg"
+    },
+    {
+      "title":"Princess 3",
+         "image":"https://cldup.com/UXxp1p5zhs.jpg"
+    },
+    {
+      "title":"Princess 4",
+        "image":"https://cldup.com/9nQv9AVUTw.jpg"
+    },
+	 {
+      "title":"Princess 5",
+        "image":"https://cldup.com/GwssghAGkQ.jpg"
+    },
+	 {
+      "title":"Princess 6",
+       "image":"https://cldup.com/Nr0KytKMBJ.jpg"
+    }
+	      
+	
+  ]
+
+}
