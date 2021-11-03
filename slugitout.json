@@ -8,7 +8,7 @@
       "admob_banner":"ca-app-pub-7251705005287196/1160947620",
       "admob_open_ads":"ca-app-pub-7251705005287196/9233689391",
       "select_ads":"ADMOB",
-      "interval":"",
+      "interval":"5",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
