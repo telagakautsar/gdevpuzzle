@@ -8,7 +8,7 @@
       "admob_banner":"",
       "admob_open_ads":"",
       "select_ads":"ADMOB",
-      "interval":"",
+      "interval":"3",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
