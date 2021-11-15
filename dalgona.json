@@ -1,0 +1,92 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "select_ads":"ADMOB",
+      "interval":"5",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Dalgona 1",
+      "image":"https://cldup.com/Q5xykZJKYf.jpg"
+    },
+    {
+      "title": "Dalgona 2",
+       "image":"https://cldup.com/_uCe4-lfVt.jpg"
+    },
+    {
+      "title":"Dalgona 3",
+        "image":"https://cldup.com/CaGBBFi59e.jpg"
+    },
+    {
+      "title":"Dalgona 4",
+       "image":"https://cldup.com/Mq4o3_FG9Q.jpg"
+    },
+    {
+      "title":"Dalgona 5",
+        "image":"https://cldup.com/d7VS_o5vT6.jpg"
+    },
+    {
+      "title":"Dalgona 6",
+        "image":"https://cldup.com/nvbBnn8uJ5.jpg"
+    },
+	  {
+      "title":"Dalgona 7",
+        "image":"https://cldup.com/Ea9dRMS6EO.jpg"
+    },
+	  
+     {
+      "title":"Dalgona 8",
+      "image":"https://cldup.com/2E11LqYfRQ.jpg"
+    },
+	{
+      "title":"Dalgona 9",
+     "image":"https://cldup.com/xvPQ3x9YGL.jpg"
+    },
+	{
+      "title":"Dalgona 10",
+      "image":"https://cldup.com/LZIxZd7iO2.jpg"
+    },
+	{
+      "title":"Dalgona 11",
+      "image":"https://cldup.com/6d_4q3b9a6.jpg"
+    },
+	{
+      "title":"Dalgona 12",
+      "image":"https://cldup.com/RA154Es3PD.jpg"
+    },
+	{
+      "title":"Dalgona 13",
+      "image":"https://cldup.com/GqsmwWoxCi.jpg"
+    },
+	{
+      "title":"Dalgona 14",
+      "image":"https://cldup.com/IwLKrB9oLD.jpg"
+    },
+	{
+      "title":"Dalgona 15",
+     "image":"https://cldup.com/QtHveEAs4l.jpg"
+    },
+	{
+      "title":"Dalgona 16",
+      "image":"https://cldup.com/C_OrbfyH9B.jpg"
+    }
+	
+	
+  ]
+
+}
