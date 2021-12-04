@@ -4,17 +4,17 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"ca-app-pub-1799410780853043/2679573078",
-      "admob_banner":"ca-app-pub-1799410780853043/5305736416",
-      "admob_open_ads":"ca-app-pub-1799410780853043/9053409731",
-      "select_ads":"ADMOB",
-      "interval":"5",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"KIDOZ",
+      "interval":"4",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
       "startappid":""   ,
-      "kidoz_pub_id":"",
-      "kidoz_token":""
+      "kidoz_pub_id":"14528",
+      "kidoz_token":"udZZ3AKa6CDOwDzw4XtYnPJs6CA7CEIZ"
     }
   ],
  
