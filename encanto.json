@@ -1,0 +1,58 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"KIDOZ",
+      "interval":"3",
+      "unityID":"4491986",
+      "unity_banner":"Banner_Android",
+      "unity_inter":"Interstitial_Android",
+      "startappid":""   ,
+      "kidoz_pub_id":"14528",
+      "kidoz_token":"udZZ3AKa6CDOwDzw4XtYnPJs6CA7CEIZ"
+    }
+  ],
+ 
+  "Data":
+  [
+    
+   {
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/1.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/2.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/3.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/4.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/5.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/6.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/7.jpg"
+    },
+	{
+      "title":"Encanto ",
+      "image":"https://kerikil.xyz/jigsaw/8.jpg"
+   }
+  ]
+
+}
