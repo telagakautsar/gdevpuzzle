@@ -2,8 +2,8 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
+      "status_redirect":"1",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.pointdev.princessjigsawpuzzle",
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
