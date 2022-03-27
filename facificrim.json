@@ -2,8 +2,8 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
+      "status_redirect":"1",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.pointdev.pacificrimpuzzle",
       "admob_inter":"ca-app-pub-7251705005287196/1768060438",
       "admob_banner":"ca-app-pub-7251705005287196/6902829433",
       "admob_open_ads":"ca-app-pub-7251705005287196/2017334265",
