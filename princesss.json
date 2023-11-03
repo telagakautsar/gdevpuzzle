@@ -2,12 +2,12 @@
 "Ads":
   [
     {
-      "status_redirect":"1",
+      "status_redirect":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.pointdev.princessjigsawpuzzle",
       "admob_inter":"ca-app-pub-7251705005287196/6491588280",
       "admob_banner":"ca-app-pub-7251705005287196/4056996634",
       "admob_open_ads":"ca-app-pub-7251705005287196/3865424949",
-      "select_ads":"KIDOZ",
+      "select_ads":"APPLOVIN",
       "interval":"2",
       "unityID":"",
       "unity_banner":"",
